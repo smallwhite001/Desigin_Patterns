@@ -1,4 +1,4 @@
-package Test;
+package Test.Test_Singleton;
 
 import Singleton_Pattern.Singleton_Full;
 import Singleton_Pattern.Singleton_Hunger;
